@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>html frames </title>
+<head>
+<frameset rows=10%,80%,10%">
+	<frame name="top" src="index.jpeg"/>
+	<frame name="main" src="https://presidencyuniversity.in"/>
+	<frame name="bottom" src="https://www.swiggy.in"/>
+<noframes>
+<body> your browser does not support frames.</body>
+</noframes>
+</frameset>
+</html>
+
