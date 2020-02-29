@@ -1,0 +1,15 @@
+<style>
+body
+{
+background-image:url('1.jpeg');
+background-repeat:no-repaet;
+background-attachment:fixed;
+}
+</style>
+
+<style>
+body{
+background-image:url('1.jpeg');
+background-repeat:no-repaet;
+background-attachment:scroll;
+}
